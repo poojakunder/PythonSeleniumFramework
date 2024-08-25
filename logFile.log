@@ -1,0 +1,36 @@
+2024-08-25 18:07:16,302 :INFO :test_formSubmission :namePooja
+2024-08-25 18:07:16,507 :INFO :test_formSubmission :emailpooja@gmail.com
+2024-08-25 18:07:16,923 :INFO :test_formSubmission :emailFemale
+2024-08-25 18:07:17,299 :INFO :test_formSubmission :Success message ×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:07:19,492 :INFO :test_formSubmission :nameKumar
+2024-08-25 18:07:19,492 :INFO :test_formSubmission :nameKumar
+2024-08-25 18:07:19,578 :INFO :test_formSubmission :emailkumar@gmail.com
+2024-08-25 18:07:19,578 :INFO :test_formSubmission :emailkumar@gmail.com
+2024-08-25 18:07:19,787 :INFO :test_formSubmission :emailMale
+2024-08-25 18:07:19,787 :INFO :test_formSubmission :emailMale
+2024-08-25 18:07:19,888 :INFO :test_formSubmission :Success message ×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:07:19,888 :INFO :test_formSubmission :Success message ×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:07:25,727 :INFO :test_e2e :clicked on shop icon
+2024-08-25 18:07:32,435 :INFO :test_e2e :text recieved is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-25 18:13:40,518 :INFO :test_formSubmission :namePooja
+2024-08-25 18:13:40,664 :INFO :test_formSubmission :emailpooja@gmail.com
+2024-08-25 18:13:40,868 :INFO :test_formSubmission :emailFemale
+2024-08-25 18:13:41,247 :INFO :test_formSubmission :Success message ×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:13:41,418 :INFO :test_formSubmission :nameKumar
+2024-08-25 18:13:41,418 :INFO :test_formSubmission :nameKumar
+2024-08-25 18:13:41,532 :INFO :test_formSubmission :emailkumar@gmail.com
+2024-08-25 18:13:41,532 :INFO :test_formSubmission :emailkumar@gmail.com
+2024-08-25 18:13:41,708 :INFO :test_formSubmission :emailMale
+2024-08-25 18:13:41,708 :INFO :test_formSubmission :emailMale
+2024-08-25 18:13:41,873 :INFO :test_formSubmission :Success message ×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:13:41,873 :INFO :test_formSubmission :Success message ×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:13:45,664 :INFO :test_e2e :clicked on shop icon
+2024-08-25 18:13:52,434 :INFO :test_e2e :text recieved is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
